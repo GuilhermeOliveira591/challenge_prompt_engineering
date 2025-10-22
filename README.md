@@ -1,26 +1,21 @@
 # Desafio Final: O Otimizador de Prompts da SynapseTech
 
-Descrição: Parabéns! Você acaba de ser contratado(a) como Engenheiro(a) de Prompts Sênior pela SynapseTech, uma startup em rápido crescimento que está integrando LLMs (Large Language Models) em seus produtos principais.
+Parabéns! Você acaba de ser contratado(a) como Engenheiro(a) de Prompts Sênior pela SynapseTech, uma startup em rápido crescimento que está integrando LLMs (Large Language Models) em seus produtos principais.
 
 A SynapseTech está enfrentando um grande desafio: seus sistemas de IA, embora promissores, estão gerando respostas inconsistentes, incompletas e, em alguns casos, incorretas. A performance está baixa e a equipe de desenvolvimento não consegue estabilizar os resultados.
 
 Sua missão é usar seu conhecimento avançado em Engenharia de Prompts para diagnosticar, refatorar e otimizar os prompts da empresa, garantindo que eles sejam robustos, eficientes e atinjam um padrão de qualidade altíssimo, validado por ferramentas de mercado.
 
-Objetivo: 
+Objetivos: 
 
 - Aplicar técnicas avançadas de engenharia de prompts para refatorar um prompt complexo de análise de código usando boas práticas (Fase 1)
 - Otimizar um conjunto de prompts de baixa performance usando o LangSmith para atingir métricas de qualidade específicas (Fase 2)
 
-Repositório Base: Você receberá um repositório base em Python (utilizando LangChain) que contém:
+# Repositórios úteis
 
-A estrutura da aplicação.
+[Curso de Prompt Engineering](https://github.com/devfullcycle/mba-ia-prompt-engineering/tree/main)
 
-Os arquivos prompts.yml (alguns vazios, outros com prompts "ruins").
-
-Scripts de teste automatizado (Fase 1).
-
-Scripts de avaliação integrados ao LangSmith (Fase 2).
-
+[Template básico com estrutura do projeto](https://github.com/GuilhermeOliveira591/challenge_prompt_engineering)
 
 
 ## Fase 1: Refatoração de Prompt Complexo (Análise de PR)
